@@ -1,4 +1,4 @@
-# Tide
+# TideCloak
 
 A Next.js application integrated with TideCloak authentication.
 
@@ -14,5 +14,5 @@ A Next.js application integrated with TideCloak authentication.
 Clone the repository:
 
 ```bash
-git clone https://github.com/s4009299/Tide.git
-cd Tide
+git clone https://github.com/s4009299/TideCloak.git
+cd TideCloak
